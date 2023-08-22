@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ItsRexxys also known as Matt!
+- 👀 I’m interested in Game Development and anthing to do with computers!
+- 🌱 I’m currently learning C# in Unity 3D
+- 💞️ I’m looking to collaborate on N/A
+- 📫 How to reach me Youtube probs the best shout to contact me to do with anything with the code / projects
